@@ -1,0 +1,1 @@
+double c_fib(int n);
